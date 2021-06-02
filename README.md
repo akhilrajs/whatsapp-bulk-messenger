@@ -9,3 +9,7 @@ open the message.py file and enter the message
 
 # step 3
 run the program engine.py and scan the bar code using the Whatsapp app in your mobile phone and sit back and let the script do your work for you 
+
+# REQUIREMENTS
+- geckodriver.exe 
+- Modzilla Firefox
